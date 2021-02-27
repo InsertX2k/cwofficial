@@ -22,7 +22,7 @@ You found someone abusing our website?, you should report them immediately to us
 No, you will not find your software here without your permission, as long as we ask for your permission and confirmation before we post your project in this repository.
 
 # Why is this repository still empty?
-Well, It isn't right now, It contains a single project (somewhat) named Windows BSOD Causer Project, and it is intended to trigger the bug that causes a BSOD.
+Well, It isn't right now, It contains a single project (somewhat) named Windows BSOD Causer Project, and it is intended to trigger the bug that causes a BSOD, also, It contains a project which will help you to properly use the program UnRPA from the DOS command line.
 
 # Any questions?
 Need answers for any questions?, ask me them on my forum (check links), or ask me them on my twitter (check links too)!
